@@ -40,7 +40,3 @@ scriptChapta.verChapta = function (content, questId, textChange) {
         }
     }
 }
-
-
-
-scriptChapta.loadChapta(".scriptchapta");
